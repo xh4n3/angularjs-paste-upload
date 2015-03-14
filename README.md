@@ -1,5 +1,6 @@
 # angularjs-paste-upload
 Uploading images by ngPaste
+
 Simply copy the image to your textbox, the image would get uploaded automatically and return the url back to the textbox.
 
 ### Notes
